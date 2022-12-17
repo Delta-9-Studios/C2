@@ -1,4 +1,4 @@
-# C2
+# Chat 2 (C2)
 Delta 9 Studio / Systems
 	snipe10090
 	You are free to make the system better or customise it or steal it idrc.
